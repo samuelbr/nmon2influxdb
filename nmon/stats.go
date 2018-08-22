@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/adejoux/influxdbclient"
-	"github.com/adejoux/nmon2influxdb/nmon2influxdblib"
+	"github.com/busser/nmon2influxdb/nmon2influxdblib"
 	"github.com/codegangsta/cli"
 )
 

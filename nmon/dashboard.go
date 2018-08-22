@@ -15,7 +15,7 @@ import (
 	"sort"
 
 	"github.com/adejoux/grafanaclient"
-	"github.com/adejoux/nmon2influxdb/nmon2influxdblib"
+	"github.com/busser/nmon2influxdb/nmon2influxdblib"
 	"github.com/codegangsta/cli"
 )
 
