@@ -248,7 +248,7 @@ func Import(c *cli.Context) {
 				}
 
 				for i, value := range elems[3:12] {
-					column := nmon.DataSeries["TOP"].Columns[i]
+					column := nmon.DataSeries["TOP"].Columns[i+1]
 
 					var wlmclass string
 					if len(elems) < 15 {
