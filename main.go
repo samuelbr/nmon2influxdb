@@ -9,9 +9,9 @@ import (
 	"log"
 	"os"
 
-	"github.com/busser/nmon2influxdb/hmc"
-	"github.com/busser/nmon2influxdb/nmon"
-	"github.com/busser/nmon2influxdb/nmon2influxdblib"
+	"github.com/samuelbr/nmon2influxdb/hmc"
+	"github.com/samuelbr/nmon2influxdb/nmon"
+	"github.com/samuelbr/nmon2influxdb/nmon2influxdblib"
 	"github.com/codegangsta/cli"
 )
 
